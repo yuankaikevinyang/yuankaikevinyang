@@ -53,11 +53,11 @@
 </div>
 
 ---
-
 <h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuankaikevinyang&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuankaikevinyang&show_icons=true&locale=en&hide_rank=true&hide=issues,stars" alt="GitHub Stats" />
-</p>
+</div>
+
+
